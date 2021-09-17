@@ -147,3 +147,30 @@ h3 {
 .about-contact-header {
   margin-top: 50px;
 }
+@media (max-width: 576px) {
+  .thumbnail-homepage {
+    display: none;
+  }
+  h1,
+  .about-h1-header {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 40px;
+  }
+  .app-header {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+  }
+  .yoga-app-button,
+  .weather-app-button,
+  .yogurt-app-button {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .email-link {
+    font-size: 18px;
+  }
+}
