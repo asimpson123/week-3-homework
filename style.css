@@ -151,10 +151,7 @@ h3 {
   .thumbnail-homepage {
     display: none;
   }
-  .thumbnail-about-page {
-    display: block;
-    margin: 0 auto;
-  }
+
   h1,
   .about-h1-header {
     font-size: 50px;
